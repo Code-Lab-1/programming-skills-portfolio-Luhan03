@@ -1,5 +1,4 @@
 ## Exercise 5: Cities
-
 def describe_city(city, country):
     msg = city + " is in " + country + "."
     print(msg)
